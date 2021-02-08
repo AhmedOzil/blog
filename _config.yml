@@ -30,7 +30,7 @@ twitter_username: MrOz1l
 github_username:  jekyll
 
 # Build settings
-#theme: jekyll-theme-potato-hacker
+theme: jekyll-theme-hacker
 plugins:
   - jekyll-feed
 
